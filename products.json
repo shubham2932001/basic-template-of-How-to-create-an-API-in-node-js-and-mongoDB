@@ -1,0 +1,87 @@
+[
+    {
+        "name": "iPhone",
+        "price": 123,
+        "featured": true,  
+        "company": "Apple"
+    },
+    {
+        "name": "GoogleA4",
+        "price": 143,
+        "featured": true,  
+        "company": "Google"
+    },
+    {
+        "name": "MicrosoftB2",
+        "price": 988,
+        "featured": true,  
+        "company": "Microsoft"
+    },
+    {
+        "name": "Samsung Galaxy S21",
+        "price": 799,
+        "featured": true,  
+        "company": "Samsung"
+    },
+    {
+        "name": "OnePlus 9 Pro",
+        "price": 969,
+        "featured": false,  
+        "company": "OnePlus"
+    },
+    {
+        "name": "Sony Xperia 5 II",
+        "price": 950,
+        "featured": false,  
+        "company": "Sony"
+    },
+    {
+        "name": "Huawei P40 Pro",
+        "price": 850,
+        "featured": false,  
+        "company": "Huawei"
+    },
+    {
+        "name": "Xiaomi Mi 11 Ultra",
+        "price": 750,
+        "featured": true,  
+        "company": "Xiaomi"
+    },
+    {
+        "name": "Oppo Find X3 Pro",
+        "price": 999,
+        "featured": false,  
+        "company": "Oppo"
+    },
+    {
+        "name": "Vivo X60 Pro",
+        "price": 689,
+        "featured": false,  
+        "company": "Vivo"
+    },
+    {
+        "name": "Asus ROG Phone 5",
+        "price": 999,
+        "featured": true,  
+        "company": "Asus"
+    },
+    {
+        "name": "Realme GT",
+        "price": 599,
+        "featured": false,  
+        "company": "Realme"
+    },
+    {
+        "name": "Lenovo Legion Duel 2",
+        "price": 900,
+        "featured": false,  
+        "company": "Lenovo"
+    },
+    {
+        "name": "Nokia 8.3 5G",
+        "price": 699,
+        "featured": false,  
+        "company": "Nokia",
+       "image": "/images/nokia8.3.png" 
+    }
+]
